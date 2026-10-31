@@ -1,0 +1,21 @@
+path: /content/datasets/cct20_yolo
+train: images/train
+val: images/cis_val
+test: images/trans_val
+
+names:
+  0: opossum
+  1: raccoon
+  2: squirrel
+  3: bobcat
+  4: skunk
+  5: dog
+  6: coyote
+  7: rabbit
+  8: bird
+  9: cat
+  10: badger
+  11: car
+  12: deer
+  13: fox
+  14: rodent
